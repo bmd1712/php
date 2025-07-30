@@ -1,4 +1,9 @@
 <?php
     echo 'xin chao';
-    setcookie('name')
+    setcookie('name');
+    echo 'xin chao';
+    echo 'xin chao';
+    echo 'xin chao';
+    echo 'xin chao';
+
 ?>
